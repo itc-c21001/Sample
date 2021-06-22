@@ -7,5 +7,5 @@ https://github.com/itc-c21001/Sample.git
     [okonomi.txt](okonomi.txt)
 
 ## リモートリポジトリ
-* README.md(README.md)を作ってみる
+* [README.md](README.md)を作ってみる
 * マークダウンを覚える
